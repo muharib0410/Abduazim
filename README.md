@@ -1,6 +1,6 @@
 ### Hi there 👋, Abduazim
 #### Design and Development 
-![Design and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm Abduazim from Uzbekistan , and i do content on Development
 
